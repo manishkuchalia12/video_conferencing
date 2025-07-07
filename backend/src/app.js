@@ -22,7 +22,7 @@ app.use("/api/v1/users", userRoutes);
 
 
 // const start = async () => {
-//     const connectionDb = await mongoose.connect("mongodb+srv://mk0752041:manish@cluster0.hs7zf.mongodb.net/");
+//     const connectionDb = await mongoose.connect("");
 //     console.log(`Connected to MongoDB: ${connectionDb.connection.host}`);
 //     server.listen(app.get("port"), () => {
 //         console.log("Server is running on port 8000");
