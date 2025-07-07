@@ -29,7 +29,7 @@ app.use("/api/v1/users", userRoutes);
 //     });
 // }
 const start = async () => {
-    const connectionDb = await mongoose.connect("mongodb://127.0.0.1:27017/videoApp");
+    const connectionDb = await mongoose.connect("URl of mongoDb");
     console.log(`Connected to MongoDB: ${connectionDb.connection.host}`);
     server.listen(app.get("port"), () => {
         console.log("Server is running on port 8000");
