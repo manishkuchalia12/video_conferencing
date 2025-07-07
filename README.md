@@ -8,3 +8,7 @@
 ![image alt](https://github.com/manishkuchalia12/video_conferencing/blob/ee8f93f01d028fecaac5afb838038b02bd5ecad9/Screenshot%202025-07-08%20001357.png)
 # login & signup form
 ![image alt](https://github.com/manishkuchalia12/video_conferencing/blob/a232ee61bee3fc3e481d6e357138bfa4e900cc4b/Screenshot%202025-07-08%20001626.png)
+# Meeting calls
+![image alt](https://github.com/manishkuchalia12/video_conferencing/blob/5321e02fbf0bdf1bc00b8168df7c6d8620cf1432/Screenshot%202025-07-08%20001702.png)
+# Live 
+![image alt](https://github.com/manishkuchalia12/video_conferencing/blob/5321e02fbf0bdf1bc00b8168df7c6d8620cf1432/Screenshot%202025-07-08%20001854.png)
