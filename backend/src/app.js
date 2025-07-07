@@ -21,8 +21,15 @@ app.use(express.urlencoded({ limit: "40kb", extended: true }));
 app.use("/api/v1/users", userRoutes);
 
 
+// const start = async () => {
+//     const connectionDb = await mongoose.connect("mongodb+srv://mk0752041:manish@cluster0.hs7zf.mongodb.net/");
+//     console.log(`Connected to MongoDB: ${connectionDb.connection.host}`);
+//     server.listen(app.get("port"), () => {
+//         console.log("Server is running on port 8000");
+//     });
+// }
 const start = async () => {
-    const connectionDb = await mongoose.connect("mongodb+srv://mk0752041:manish@cluster0.hs7zf.mongodb.net/");
+    const connectionDb = await mongoose.connect("mongodb://127.0.0.1:27017/videoApp");
     console.log(`Connected to MongoDB: ${connectionDb.connection.host}`);
     server.listen(app.get("port"), () => {
         console.log("Server is running on port 8000");
