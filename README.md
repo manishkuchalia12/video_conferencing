@@ -1,0 +1,6 @@
+# I’m excited to share my latest project – a real-time video conferencing application developed using the MERN Stack (MongoDB, Express.js, React.js, Node.js) built with modern web technologies! This project is designed to support instant video calls, live chat, and screen sharing – all in real-time, without saving any meeting history, ensuring complete privacy for users.
+## 🔧 Key Features:
+✅ Video Calling – Real-time 1-on-1 or group video calls using WebRTC.
+✅ Live Chat – Instant messaging during calls using Socket.io.
+✅ Screen Sharing – Users can share their screens seamlessly during meetings.
+✅ Save History – History is stored after the meeting ends.
