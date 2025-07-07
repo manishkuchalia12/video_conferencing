@@ -4,3 +4,5 @@
 ✅ Live Chat – Instant messaging during calls using Socket.io.
 ✅ Screen Sharing – Users can share their screens seamlessly during meetings.
 ✅ Save History – History is stored after the meeting ends.
+# Interface
+![image alt](https://github.com/manishkuchalia12/video_conferencing/blob/ee8f93f01d028fecaac5afb838038b02bd5ecad9/Screenshot%202025-07-08%20001357.png).
